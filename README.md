@@ -1,1 +1,1 @@
-Proyecto en producción: [http://localhost:3000](http://localhost:3000)
+Proyecto en producción: [https://vico-trd.github.io/tienda-react](https://vico-trd.github.io/tienda-react)
